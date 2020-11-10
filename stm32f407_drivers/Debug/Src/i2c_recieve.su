@@ -1,0 +1,5 @@
+i2c_recieve.c:25:6:delay	16	static
+i2c_recieve.c:41:6:I2C1_GPIOInits	24	static
+i2c_recieve.c:64:6:I2C1_Inits	8	static
+i2c_recieve.c:76:6:GPIO_ButtonInit	32	static
+i2c_recieve.c:104:5:main	24	static
